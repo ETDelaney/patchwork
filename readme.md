@@ -1,6 +1,6 @@
 # Patchwork
 
-#![screenshot](https://raw.githubusercontent.com/jlord/patchwork/gh-pages/patchwork-ss.png)
+![screenshot](https://github.com/ETDelaney/patchwork/blob/gh-pages/success-patchwork.png)
 
 
 
